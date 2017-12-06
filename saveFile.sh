@@ -1,4 +1,5 @@
 #!/bin/sh
+#Pour Jeto
 ZEDATE=`date +%Y-%m-%d_%H-%M-%S`
 
 mkdir -p /srv/testSYNC/INC/${ZEDATE}/
